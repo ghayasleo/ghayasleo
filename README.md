@@ -22,6 +22,7 @@ Currently, I am working at **Linknbit** as a **Senior Fullstack Developer** and 
 ## 📫 How to Reach Me:
 - [Email](mailto:ghayasleo99@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ghayas-ud-din/)
+- [Instagram](https://www.instagram.com/techieghayas)
 - [Medium](https://ghayas.medium.com/)
 - [Codepen](https://codepen.io/ghayasleo)
 

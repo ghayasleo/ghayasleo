@@ -27,7 +27,7 @@ Currently, I am working at **Linknbit** as a **Senior Fullstack Developer** and 
 - [Codepen](https://codepen.io/ghayasleo)
 
 ## 🏆 Fun Fact
-- When I'm not coding, you can find me exploring new sports data, enjoying a good playlist, or gaming 🎮.
+- When I'm not coding, you can find me enjoying a good playlist or gaming. 🎮
 
 Happy coding! 🚀
 

@@ -15,9 +15,10 @@ Currently, I am working at **Linknbit** as a **Senior Fullstack Developer** and 
 - Contributing to **open-source projects** and collaborating with the dev community.
 
 ## 🌟 Contributions
-- I write articles on **Medium** related to **IT**, **full-stack development**, **web and mobile apps**, and **industry trends**. My goal is to share knowledge and insights that can help fellow developers and tech enthusiasts.
-- I created a **[remote jobs website](https://remote-jobs-psi.vercel.app/)** that connects developers and tech professionals with remote work opportunities, making it easier for companies and talent to find each other globally.
-- I frequently create and share **mini components** on **CodePen** and other platforms to help fellow developers with reusable UI elements and inspire creativity.
+- Write articles on **Medium** related to **IT**, **full-stack development**, **web and mobile apps**, and **industry trends**. My goal is to share knowledge and insights that can help fellow developers and tech enthusiasts.
+- Created a **[remote jobs website](https://remote-jobs-psi.vercel.app/)** that connects developers and tech professionals with remote work opportunities, making it easier for companies and talent to find each other globally.
+- Frequently create and share **mini components** on **CodePen** and other platforms to help fellow developers with reusable UI elements and inspire creativity.
+- Created a **[google dorker]([https://remote-jobs-psi.vercel.app/](https://google-dorker.vercel.app/))** — a lightweight web tool that simplifies advanced Google search queries (a.k.a. Google Dorking), helping users filter and find specific indexed content effortlessly.
 
 ## 📫 How to Reach Me:
 - [Email](mailto:ghayasleo99@gmail.com)

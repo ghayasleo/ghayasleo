@@ -2,11 +2,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;5%2B+Years+of+Experience;React+%7C+Node.js+%7C+Next.js+Specialist;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;6%2B+Years+of+Experience;React+%7C+Node.js+%7C+Next.js+Specialist;Building+Scalable+Applications;CTO+at+Linknbit)](https://git.io/typing-svg)
 
 </div>
 
-I'm a full-stack developer with 5+ years of experience in building scalable web and mobile applications. Currently working at **Linknbit** as a **Senior Fullstack Developer** and **Team Lead**.
+I'm a full-stack developer with 6+ years of experience in building scalable web and mobile applications. Currently working at **Linknbit** as a **CTO** and **Senior Fullstack Developer**.
 
 ---
 
